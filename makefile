@@ -14,4 +14,4 @@ sumres.o: sumres.c sumres.h
 	gcc sumres.c -c
 
 clean:
-	rm -rf *.exe *.o
+	rm -rf a.out *.exe *.o
